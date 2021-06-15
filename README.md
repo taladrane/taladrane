@@ -13,7 +13,7 @@
     - TBD!
 - 📫 How to reach me ...
     - taladrane@github.com
-    - @taladrane on twitter
+    - [@taladrane](https://twitter.com/taladrane)
 
 <!---
 taladrane/taladrane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
