@@ -15,6 +15,10 @@
     - ✉️ taladrane@github.com
     - 🐦 [@taladrane](https://twitter.com/taladrane)
 
+
+meet the fam
+![pets.jpg](pets.jpg)
+
 <!---
 taladrane/taladrane is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
