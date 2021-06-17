@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @taladrane. I work in product security incident response at GitHub 👋 and I used to work in vulnerability coordination at [CERT](https://kb.cert.org/).
+- 👋 Hi, I’m @taladrane. I work in product security incident response at GitHub 👋  and I used to work in vulnerability coordination at [CERT](https://kb.cert.org/).
 - 👀 I’m interested in ...
     - 💻  vulnerability coordination
     - 💻  incident response
