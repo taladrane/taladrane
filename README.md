@@ -21,7 +21,6 @@
     - 📧 taladrane@github.com
     - 🐦 [@taladrane](https://twitter.com/taladrane)
     - 🔗 [LinkedIn](https://www.linkedin.com/in/madisonoliver24/)
-    - 📆 [appointment calendar](https://calendar.app.google/T2hGM189zm96VMaN9)
     - 🔐 [PGP key](https://github.com/taladrane.gpg)
 
 <!---
