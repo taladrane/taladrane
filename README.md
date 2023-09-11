@@ -1,17 +1,17 @@
-- 👋 Hi, I’m Madison, also known as @taladrane. I manage the [Advisory Database](https://github.com/advisories) curation team here at GitHub 👋  and I used to work in incident response and vulnerability coordination at the [CERT/CC](https://kb.cert.org/).
+- 👋 Hi, I’m Madison, also known as @taladrane. I manage the [Advisory Database](https://github.com/advisories) curation team here at GitHub 👋  and I used to work in incident response and vulnerability coordination at the [CERT/CC](https://kb.cert.org/). I also participate in the [Open Source Security Foundation](https://openssf.org/) and [CVE community](https://www.cve.org/).
 - 👀 I’m interested in ...
-    - 💻 vulnerability coordination
-    - 💂‍♀ incident response
+    - 💻 vulnerability reporting & coordination
     - 💻 open source & package security
-    - 🚒 supporting vul reporting and disclosure
-    - 🎮 world of warcraft
-    - 🐈‍⬛ cats
+    - 💻 software supply chain security
+    - 💂‍♀ incident response
+    - 🐈‍⬛ cats & animal welfare
+    - 🎮 video games
 - 🌱 I’m currently learning about ...
     - dependency-related vulnerabilities
     - product security incident response
-    - vulnerability reporting and coordination
+    - vulnerability reporting & coordination
     - open source security & making it better
-    - how to manage better
+    - how to improve as a leader & manager
 - 💞️ I’m looking to collaborate on ...
     - media around security (blogs, podcasts, etc.)
     - conference presentations
@@ -19,7 +19,7 @@
     - improving existing vulnerability-related specifications
 - 📫 How to reach me ...
     - 📧 taladrane@github.com
-    - 🐦 [@taladrane](https://twitter.com/taladrane)
+    - 🗨️ [@taladrane](https://fosstodon.org/@taladrane) / [@taladrane](https://twitter.com/taladrane)
     - 🔗 [LinkedIn](https://www.linkedin.com/in/madisonoliver24/)
     - 🔐 [PGP key](https://github.com/taladrane.gpg)
 
